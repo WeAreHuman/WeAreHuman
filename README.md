@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I'm Suraj Patil
 
-<!--
-**WeAreHuman/WeAreHuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS in Business Data Science & Analytics – Michigan State University
+💼 Data professional experienced in retail, gaming & manufacturing analytics
 
-Here are some ideas to get you started:
+I build analytics-ready data systems using SQL, Snowflake, Databricks, Python, and Power BI—turning messy data into trusted insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+
+🛒 Clickstream Analytics – Walmart session data modeling in Snowflake
+
+🤖 MSU Club RAG Assistant – LangChain + Pinecone AI search
+
+⚙️ Voith Quote Automation – Power Apps + Automate workflow system
+
+🧠 Fraud Detection – Isolation Forest on transaction datasets
+
+🎯 Exploring GCP, agentic AI, finance analytics, and data architecture
+📬 Open to Analytics Engineer / Data Analyst / Data Solution Architect roles
+
+🦇 Favorite movie: The Dark Knight | 📖 Murakami fan | 🍛 Biryani lover
