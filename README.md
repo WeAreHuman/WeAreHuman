@@ -1,6 +1,6 @@
 ## Hi, I'm Suraj
 
-## 💼 Data professional experienced in retail & SaaS analytics
+## 💼 Data professional experienced in Retail & SaaS analytics
 🎓 MS in Business Data Science & Analytics – Michigan State University
 
 I build analytics-ready data systems using SQL, Databricks, Python, and Power BI—turning messy data into trusted insights.
