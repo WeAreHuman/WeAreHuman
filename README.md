@@ -14,4 +14,6 @@ I build analytics-ready data systems using SQL, Databricks, Python, and Power BI
 🎯 Exploring GCP, agentic AI, finance analytics, and data architecture
 📬 Open to Analytics Engineer / Business Intelligence Engineer / Data Solution Architect roles
 
-🦇 Favorite movie: The Dark Knight | 🍛 Biryani lover
+- ![](https://img.shields.io/badge/Pandas-Data%20Analysis-150458)
+- ![](https://img.shields.io/badge/Apache%20Spark-Big%20Data-e25a1c)
+- ![](https://img.shields.io/badge/AWS-Cloud-ff9900)
